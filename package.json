@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://viskoos.github.io/hello/",
   "dependencies": {
-    "bootstrap": "^4.1.3",
+    "bootstrap": "^4.3.1",
     "font-awesome": "^4.7.0",
     "gh-pages": "^2.1.1",
     "lodash": "^4.17.10",
